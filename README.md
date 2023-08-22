@@ -28,4 +28,3 @@
 ---
 ##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
 ##### 🧑‍🏫 **Instructor**: Tufool Alnuaimi
-##### 📖 **Career Track**: Data Scientist with Python
