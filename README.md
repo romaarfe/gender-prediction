@@ -1,24 +1,31 @@
-# **Name Game: Gender Prediction using Sound**
+<h3 align="center"> 
+  🚧 NAME GAME: GENDER PREDICTION USING SOUND 🚧
+</h3>
 
-## *Analyze the gender distribution of children's book writers and use sound to match names to gender.*
+---
+#### 📢 ABOUT:
+**Analyze the gender distribution of children's book writers and use sound to match names to gender.**
 
-#
-The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In this project, you will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children's Picture books.
+---
+#### ⚠️ PROJECT:
+*The same name can be spelled out in a many ways (for example, Marc and Mark, or Elizabeth and Elisabeth). Sound can, therefore, be a better way to match names than spelling. In this project, you will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children's Picture books.*
 
-First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we'll aggregate the author dataset by including gender. Finally, you will use the new dataset to plot the gender distribution of children's picture books authors over time.
+*First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we'll aggregate the author dataset by including gender. Finally, you will use the new dataset to plot the gender distribution of children's picture books authors over time.*
 
-To complete this project, you should be familiar with pandas DataFrames, NumPy for basic statistics, and Matplotlib for plotting.
+*To complete this project, you should be familiar with pandas DataFrames, NumPy for basic statistics, and Matplotlib for plotting.*
 
-#
-1. Sound it out!
-2. Authoring the authors
-3. It's time to bring on the phonics... _again_!
-4. The inbetweeners
-5. Playing matchmaker
-6. Tally up
-7. Foreign-born authors?
-8. Raising the bar
-#
+---
+#### ▶️ STEPS:
+- [x] Sound it out!
+- [x] Authoring the authors
+- [x] It's time to bring on the phonics... _again_!
+- [x] The inbetweeners
+- [x] Playing matchmaker
+- [x] Tally up
+- [x] Foreign-born authors?
+- [x] Raising the bar
 
-- #### At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
-- #### Instructor: Tufool Alnuaimi
+---
+##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
+##### 🧑‍🏫 **Instructor**: Tufool Alnuaimi
+##### 📖 **Career Track**: Data Scientist with Python
